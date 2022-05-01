@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 6b7d75f0a296c0047b6c36d650bebce6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArmL.001
+    100002: ArmL.002
+    100004: ArmR.001
+    100006: ArmR.002
+    100008: Body
+    100010: Body 1
+    100012: Cube.003
+    100014: Cube.004
+    100016: Cube.005
+    100018: Cube.006
+    100020: Cube.007
+    100022: Cube.008
+    100024: Cube.009
+    100026: Cube.010
+    100028: Cube.011
+    100030: Cube.012
+    100032: Cylinder
+    100034: Cylinder.001
+    100036: Cylinder.002
+    100038: Cylinder.003
+    100040: Cylinder.004
+    100042: Cylinder.005
+    100044: engine
+    100046: Finger1R.001
+    100048: Finger2L.001
+    100050: Finger2L.002
+    100052: Finger2L.002_end
+    100054: FingerL.001
+    100056: FingerL.002
+    100058: FingerL.002_end
+    100060: FingerR.001
+    100062: FingerR.002
+    100064: FingerR.002_end
+    100066: FingerR.004
+    100068: FingerR.004_end
+    100070: Head
+    100072: Head 1
+    100074: Head_end
+    100076: //RootNode
+    100078: Sceen
+    100080: Tracks
+    400000: ArmL.001
+    400002: ArmL.002
+    400004: ArmR.001
+    400006: ArmR.002
+    400008: Body
+    400010: Body 1
+    400012: Cube.003
+    400014: Cube.004
+    400016: Cube.005
+    400018: Cube.006
+    400020: Cube.007
+    400022: Cube.008
+    400024: Cube.009
+    400026: Cube.010
+    400028: Cube.011
+    400030: Cube.012
+    400032: Cylinder
+    400034: Cylinder.001
+    400036: Cylinder.002
+    400038: Cylinder.003
+    400040: Cylinder.004
+    400042: Cylinder.005
+    400044: engine
+    400046: Finger1R.001
+    400048: Finger2L.001
+    400050: Finger2L.002
+    400052: Finger2L.002_end
+    400054: FingerL.001
+    400056: FingerL.002
+    400058: FingerL.002_end
+    400060: FingerR.001
+    400062: FingerR.002
+    400064: FingerR.002_end
+    400066: FingerR.004
+    400068: FingerR.004_end
+    400070: Head
+    400072: Head 1
+    400074: Head_end
+    400076: //RootNode
+    400078: Sceen
+    400080: Tracks
+    2100000: No Name
+    2300000: Body 1
+    2300002: Cube.003
+    2300004: Cube.004
+    2300006: Cube.005
+    2300008: Cube.006
+    2300010: Cube.007
+    2300012: Cube.008
+    2300014: Cube.009
+    2300016: Cube.010
+    2300018: Cube.011
+    2300020: Cube.012
+    2300022: Cylinder
+    2300024: Cylinder.001
+    2300026: Cylinder.002
+    2300028: Cylinder.003
+    2300030: Cylinder.004
+    2300032: Cylinder.005
+    2300034: engine
+    2300036: Head 1
+    2300038: Sceen
+    2300040: Tracks
+    3300000: Body 1
+    3300002: Cube.003
+    3300004: Cube.004
+    3300006: Cube.005
+    3300008: Cube.006
+    3300010: Cube.007
+    3300012: Cube.008
+    3300014: Cube.009
+    3300016: Cube.010
+    3300018: Cube.011
+    3300020: Cube.012
+    3300022: Cylinder
+    3300024: Cylinder.001
+    3300026: Cylinder.002
+    3300028: Cylinder.003
+    3300030: Cylinder.004
+    3300032: Cylinder.005
+    3300034: engine
+    3300036: Head 1
+    3300038: Sceen
+    3300040: Tracks
+    4300000: Body
+    4300002: engine
+    4300004: Tracks
+    4300006: Cylinder.005
+    4300008: Cylinder.004
+    4300010: Head
+    4300012: Sceen
+    4300014: Cylinder
+    4300016: Cylinder.001
+    4300018: Cube.004
+    4300020: Cube.005
+    4300022: Cube.006
+    4300024: Cube.007
+    4300026: Cube.008
+    4300028: Cylinder.002
+    4300030: Cylinder.003
+    4300032: Cube.003
+    4300034: Cube.011
+    4300036: Cube.012
+    4300038: Cube.009
+    4300040: Cube.010
+    7400000: Robot|ArmExtended
+    7400002: Robot|ArmTiltedDown
+    7400004: Robot|Grabbed
+    7400006: Robot|Idle
+    7400008: Robot|Jump
+    7400010: Robot|Punch
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Robot|Jump
+      takeName: Robot|Jump
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: b8587c257d0afa349abca6f0c5715ff3,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ArmMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Body
+    m_Weight: 0
+  - m_Path: Body/ArmL.001
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/ArmL.002
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/ArmL.002/Cylinder.003
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/ArmL.002/Cylinder.003/Cube.003
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/ArmL.002/Finger2L.001
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/ArmL.002/Finger2L.001/Cube.009
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/ArmL.002/Finger2L.001/Finger2L.002
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/ArmL.002/Finger2L.001/Finger2L.002/Cube.010
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/ArmL.002/Finger2L.001/Finger2L.002/Finger2L.002_end
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/ArmL.002/FingerL.001
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/ArmL.002/FingerL.001/Cube.011
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/ArmL.002/FingerL.001/FingerL.002
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/ArmL.002/FingerL.001/FingerL.002/Cube.012
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/ArmL.002/FingerL.001/FingerL.002/FingerL.002_end
+    m_Weight: 0
+  - m_Path: Body/ArmL.001/Cylinder.002
+    m_Weight: 0
+  - m_Path: Body/ArmR.001
+    m_Weight: 1
+  - m_Path: Body/ArmR.001/ArmR.002
+    m_Weight: 0
+  - m_Path: Body/ArmR.001/ArmR.002/Cylinder.001
+    m_Weight: 0
+  - m_Path: Body/ArmR.001/ArmR.002/Cylinder.001/Cube.004
+    m_Weight: 0
+  - m_Path: Body/ArmR.001/ArmR.002/Finger1R.001
+    m_Weight: 0
+  - m_Path: Body/ArmR.001/ArmR.002/Finger1R.001/Cube.007
+    m_Weight: 0
+  - m_Path: Body/ArmR.001/ArmR.002/Finger1R.001/FingerR.004
+    m_Weight: 0
+  - m_Path: Body/ArmR.001/ArmR.002/Finger1R.001/FingerR.004/Cube.008
+    m_Weight: 0
+  - m_Path: Body/ArmR.001/ArmR.002/Finger1R.001/FingerR.004/FingerR.004_end
+    m_Weight: 0
+  - m_Path: Body/ArmR.001/ArmR.002/FingerR.001
+    m_Weight: 0
+  - m_Path: Body/ArmR.001/ArmR.002/FingerR.001/Cube.005
+    m_Weight: 0
+  - m_Path: Body/ArmR.001/ArmR.002/FingerR.001/FingerR.002
+    m_Weight: 0
+  - m_Path: Body/ArmR.001/ArmR.002/FingerR.001/FingerR.002/Cube.006
+    m_Weight: 0
+  - m_Path: Body/ArmR.001/ArmR.002/FingerR.001/FingerR.002/FingerR.002_end
+    m_Weight: 0
+  - m_Path: Body/ArmR.001/Cylinder
+    m_Weight: 1
+  - m_Path: Body/Body 1
+    m_Weight: 0
+  - m_Path: Body/Body 1/engine
+    m_Weight: 0
+  - m_Path: Body/Body 1/engine/Cylinder.004
+    m_Weight: 0
+  - m_Path: Body/Body 1/engine/Cylinder.005
+    m_Weight: 0
+  - m_Path: Body/Body 1/engine/Tracks
+    m_Weight: 0
+  - m_Path: Body/Head
+    m_Weight: 0
+  - m_Path: Body/Head/Head 1
+    m_Weight: 0
+  - m_Path: Body/Head/Head_end
+    m_Weight: 0
+  - m_Path: Body/Head/Sceen
+    m_Weight: 0
